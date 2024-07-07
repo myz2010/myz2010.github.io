@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一个小网站</title>
+  
+  <subtitle>耶</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-07-03T09:57:09.417Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>yzkbh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hhh</title>
+    <link href="http://example.com/2024/07/03/%20%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5/"/>
+    <id>http://example.com/2024/07/03/%20%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BD%91%E9%A1%B5/</id>
+    <published>2024-07-03T09:56:47.000Z</published>
+    <updated>2024-07-03T09:57:09.417Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
